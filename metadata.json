@@ -1,0 +1,8 @@
+{
+  "name": "答题领红包后台管理系统",
+  "description": "答题领红包小程序后台管理系统，包含数据概览控制台、微信支付与商家转账资金对账、题库与长辈审题管理、实时对局房间监控、玩家与赞助人风控及系统接口配置",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
